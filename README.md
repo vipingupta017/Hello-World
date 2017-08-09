@@ -1,3 +1,6 @@
 # Hello-World
 just new repository
-abc def ghi
+readme-edits
+Hi i am beginner in github
+avxsahsjchjdwbckbdwcb sn jdscjkdscjkd
+master
